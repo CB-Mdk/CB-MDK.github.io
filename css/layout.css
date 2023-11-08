@@ -2,6 +2,19 @@
     background-color: rgb(153, 102, 153);
 }
 
+.projects {
+    background-color: rgb(97, 0, 97);
+}
+
+.resume {
+    background-color: rgb(13, 130, 189);
+}
+
+.contact {
+    background-color: rgb(49, 0, 49);
+}
+
+
 .topnav {
     overflow: hidden;
     background-color: #333;
