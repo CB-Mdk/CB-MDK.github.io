@@ -14,8 +14,9 @@
     background-color: rgb(228, 103, 228);
 }
 
-.patas {
+footer#patas {
     background-color: rgb(8, 149, 220);
+    max-width: 100%;
 }
 
 
